@@ -17,10 +17,14 @@ A simple todo app that's add your task in a list
 ## 🛠️ Built With
 
 -**HTML5**: for sementic structure
--**CSS3**: using flexbox for a modern and clean layout
--**JAVASCRIPT**: for dynamic DOM manupilation and Logic
+-**JAVASCRIPT**: for dynamic DOM manupilation, styling and Logic
 
 
 ## Live demo 
 
 -demo link: https://amellahdev-glitch.github.io/TODO-LIST/
+
+
+## Objectif 
+
+-Practice the DOM manipulation with JAVASCRIPT and Logic thinking
