@@ -13,7 +13,7 @@ div.style.width = "fit-content";
 div.style.border = "1px solid black"
 div.style.borderRadius = "5px";
 div.style.boxShadow = "0 0 5px black";
-div.style.padding = "20px"
+div.style.padding = "19px"
 // title ------------------------------
 let h1 = document.createElement("h1");
 h1.textContent = "TODO List";
