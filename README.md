@@ -12,6 +12,8 @@ A simple todo app that's add your task in a list
 
 ## 📸 Preview
 
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/3994edde-e40b-4161-abde-b7dc2ed39361" />
+
 
 
 ## 🛠️ Built With
